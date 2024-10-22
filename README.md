@@ -1,5 +1,5 @@
 # Selenium Demo Project
 
-I made this project for learning purpose
+Testing project installed locally 
 
 CDN
